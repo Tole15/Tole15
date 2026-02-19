@@ -5,7 +5,7 @@ Universidad de Colima
 
 🔧 Embedded Systems · Electronics · Networking · Digital Systems · Software Development · Data Fundamentals  
 🌐 English: C1 (TOEFL)  
-📫 LinkedIn: <https://www.linkedin.com/in/cesar-tolentino-programmer/>
+📫 LinkedIn: <https://www.linkedin.com/in/c%C3%A9sar-alejandro-tolentino-mendoza-859620393/?trk=opento_sprofile_goalscard/>
 
 ---
 
